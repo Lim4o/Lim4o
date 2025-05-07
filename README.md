@@ -10,10 +10,6 @@ Graduando em Ciência da Computação na Unisagrado, apaixonado por programaçã
 - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) **Git**
 - ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) **VS Code**
 
-## 📌 Projetos Destacados
-- [nlw-esports](https://github.com/Lim4o/nlw-esports) - Projeto HTML voltado para eSports
-- [projetos](https://github.com/Lim4o/projetos) - Repositório com diversos projetos
-- [PAIVA](https://github.com/Yemuri/PAIVA) - Projeto em JavaScript
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kaualimao/)
